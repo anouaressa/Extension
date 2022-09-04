@@ -1,0 +1,11 @@
+{
+    "name": "Weather info in Casablanca ",
+    "version": "1.0.0",
+    "description": "latest weather info in  Casablanca",
+    "manifest_version": 3,
+    "author": "Anouar Essabbari",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Weather extension"
+    }
+}
