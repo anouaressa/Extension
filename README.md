@@ -1,2 +1,2 @@
 # Extension
-Create a Google Chrome Extension to give us information about weather using the weather API
+Create a Google Chrome Extension that give information about weather using the weather API
